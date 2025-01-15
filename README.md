@@ -1,7 +1,7 @@
 
 ---
 
-# file-meta
+# file-meta (in progress)
 
 `file-meta` is a Python library designed for extracting and organizing metadata from various file types, such as images, PDFs, and audio files. This tool allows users to easily retrieve and organize file metadata by year, helping streamline the management of large collections of files.
 
